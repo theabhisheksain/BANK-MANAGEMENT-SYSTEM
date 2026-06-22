@@ -12,8 +12,7 @@ FROM USER THIS SYSTEM INPUTS A n NUMBER OF ENTRIES AND NUMBER OF OPERATIONS WHIC
 IT HAVE A NESTED OPERATION TO GRANT A IDEAL BANKING.
 
 
-                ~~~~~~~~~~~CODE~~~~~~~~~~~~
-<c++>
+                ~~~~~~~~~~~<C++>~~~~~~~~~~~~
     
     
     #include<iostream>
