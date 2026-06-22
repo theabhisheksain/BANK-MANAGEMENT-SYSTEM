@@ -1,5 +1,13 @@
 # BANK-MANAGEMENT-SYSTEM
 THIS IS A FULLY C++ ORIENTED MINOR PROJECT,THAT TRY THE MAJOR PROPERTIES OF C++ LANGUAGE
+
+Features:Features
+            - Customer registration
+            - Deposit money
+            - Withdraw money
+            - Balance inquiry
+            - Dynamic memory allocation using pointers
+            - Object-oriented design in C++
 THIS INCLUDE:
               1. C++ fundamentals
               2. OOP concepts
